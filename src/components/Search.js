@@ -4,6 +4,7 @@ import Form from "react-bootstrap/Form";
 import Cards from "./Cards";
 import Set from "./Set";
 import "./style.css";
+import "../styles/commonClasses.css"
 
 // use state 1
 const Search = () => {
@@ -38,7 +39,7 @@ const Search = () => {
   }, []);
   return (
     <>
-      <div className="container">
+      {/* <div className="container max-width">
       <div className="d-flex justify-content-between align-items-center">
         <img
           src={zomatologo}
@@ -66,11 +67,11 @@ const Search = () => {
           </button>
         </Form>
       </div>
-    </div>
+    </div> */}
 
-      <section className="item_section mt-4 container">
-        <h2 className="px-4" style={{ fontWeight: 400 }}>
-          Restaurants in Ahmedabad Open now
+      <section className="item_section mt-4 container max-width">
+        <h2 className=" mt-5" style={{ fontWeight: 500 }}>
+          Restaurants in Delhi NCR Open now
         </h2>
         <div className="row mt-2 d-flex justify-content-around align-items-center">
           {/* passing props inside card componets  */}

@@ -3,24 +3,29 @@
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
+.max-width{
+    max-width: 1100px;
+    margin: 0px auto;
+    
+}
+
 .input{
     width: 50px;
 }
 
 .card{
     width: 22rem;
+    margin-top: 25px;
     margin-bottom: 20px;
     border: none;
+    border-radius: 1.5rem;
 }
 
 .card:hover{
     cursor: pointer;
-    transition: .2s;
-    border: 1px solid rgb(75, 73, 73);
-    -webkit-box-shadow: 0px 0px 11px 15px rgba(232,232,232,0.54);
--moz-box-shadow: 0px 0px 11px 15px rgba(232,232,232,0.54);
-box-shadow: 0px 0px 11px 15px rgba(232,232,232,0.54);
-    
+    /* transition: .1s; */
+    border-radius: 1.5rem;
+    border: 0.1rem solid rgb(232, 232, 232);
 }
 
 .image{
