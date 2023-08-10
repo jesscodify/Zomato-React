@@ -30,8 +30,8 @@ Card: Represents a restaurant and its details in a compact card format.
 These are just a few examples of the components used in the project. They showcase the concept of reusability and component-based architecture in React.js.
 
 Screenshots
-![1](https://github.com/jesscodify/Zomato-React/assets/93216297/63ac19eb-9de7-4aa3-8410-8da333628a3f)
-![2](https://github.com/jesscodify/Zomato-React/assets/93216297/4736d154-c665-4b51-a342-9c2440b82d59)
+![1](https://github.com/jesscodify/Zomato-React/assets/93216297/63ac19eb-9de7-4aa3-8410-8da333628a3f) ![2](https://github.com/jesscodify/Zomato-React/assets/93216297/4736d154-c665-4b51-a342-9c2440b82d59)
+
 
 
 
