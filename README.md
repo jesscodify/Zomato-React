@@ -33,11 +33,9 @@ Screenshots
 ![1](https://github.com/jesscodify/Zomato-React/assets/93216297/63ac19eb-9de7-4aa3-8410-8da333628a3f) ![2](https://github.com/jesscodify/Zomato-React/assets/93216297/4736d154-c665-4b51-a342-9c2440b82d59)
 
 
-
-
-Contributing
+# Contributing
 Contributions are welcome! If you find any issues or want to enhance the project, feel free to open a pull request. Please ensure that your contributions align with the project's coding standards and practices.
 
-License
+# License
 This project is licensed under the MIT License.
 
